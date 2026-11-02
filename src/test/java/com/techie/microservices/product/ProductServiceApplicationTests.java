@@ -1,6 +1,6 @@
 package com.techie.microservices.product;
 
-import com.techie.microservices.product.dto.ProductRequest;
+import com.techie.microservices.product.rest.dto.ProductRequest;
 import io.restassured.RestAssured;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.techie.microservices</groupId>
-	<artifactId>product-service</artifactId>
+	<artifactId>shop-platform</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>

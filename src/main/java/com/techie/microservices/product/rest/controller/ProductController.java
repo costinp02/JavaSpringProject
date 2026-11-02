@@ -1,8 +1,8 @@
-package com.techie.microservices.product.controller;
+package com.techie.microservices.product.rest.controller;
 
-import com.techie.microservices.product.dto.ProductRequest;
-import com.techie.microservices.product.dto.ProductResponse;
-import com.techie.microservices.product.service.ProductService;
+import com.techie.microservices.product.rest.dto.ProductRequest;
+import com.techie.microservices.product.rest.dto.ProductResponse;
+import com.techie.microservices.product.rest.service.ProductService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

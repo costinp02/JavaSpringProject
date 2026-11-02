@@ -1,9 +1,9 @@
-package com.techie.microservices.product.service;
+package com.techie.microservices.product.rest.service;
 
-import com.techie.microservices.product.dto.ProductRequest;
-import com.techie.microservices.product.dto.ProductResponse;
-import com.techie.microservices.product.model.Product;
-import com.techie.microservices.product.repository.ProductRepository;
+import com.techie.microservices.product.rest.dto.ProductRequest;
+import com.techie.microservices.product.rest.dto.ProductResponse;
+import com.techie.microservices.product.persistence.model.Product;
+import com.techie.microservices.product.persistence.repository.ProductRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

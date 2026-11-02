@@ -1,4 +1,4 @@
-package com.techie.microservices.product.model;
+package com.techie.microservices.product.persistence.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
